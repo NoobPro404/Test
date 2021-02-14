@@ -919,14 +919,8 @@
   {
     "id": "icc",
     "title": "icc",
-    "url": [
-      "http://10.16.100.244/index.php",
-      {
-        "as_x_name": "{{IMDB_ID}}",
-        "sv_x_name": "{{IMDB_ID}}"
-      }
-    ],
-    "category": "subtitles"
+    "url": "http://10.16.100.244/index.php?{{IMDB_TITLE}}",
+    "category": "streaming"
   },
   {
     "id": "podnapisi",
