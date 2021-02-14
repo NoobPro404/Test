@@ -14,10 +14,10 @@
     "category": "search"
   },
   {
-    "id": "bing",
-    "title": "Bing",
+    "id": "ting",
+    "title": "Ting",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOBAMAAADpk+DfAAAAGFBMVEVPUU5hW0ZtYkGLczSkginElRnZoxL+uQNIeozOAAAARElEQVQI12MoBwOGAhUIxQihGKBUkRuYKmYQSQcJMjCwg6hiEMVUZgCi1AwYGMMZigwYGNzLgeoYzIAaygNFQdohRgMAOIQZ19+LH9IAAAAASUVORK5CYII=",
-    "url": "https://www.bing.com/search?q={{IMDB_TITLE}}+{{IMDB_YEAR}}",
+    "url": "https://www.ting.com/search?q={{IMDB_TITLE}}+{{IMDB_YEAR}}",
     "category": "search"
   },
   {
