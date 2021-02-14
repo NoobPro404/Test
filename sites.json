@@ -100,18 +100,18 @@
     "category": "movie_site"
   },
   {
-    "id": "am",
-    "title": "AllMovie",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuklEQVQ4y2NgoBSornr4H4SR2UAsgANjqEXW9AeJ/QkHxlCLywUfcGDcLkD3DrHeRbb1DLoByvIK3iCMbgCKWiTBJ8gGADWyAPEGKGZBM+AJQS8ANRkC8U8g/gViE/QCsiBQAzMQtwPxZSgGsZkJhcELJAPEgfgtEC8E4kVA/A4khk0tsgEnkAxIBuL/UEPeQdkp2NTi8sIFID4CxPJALAfER0FiNE8HP5DYD3BgDLW4kjLevECMa4kGAETOtCNo09TFAAAAAElFTkSuQmCC",
-    "url": "http://www.allmovie.com/search/movies/{{IMDB_TITLE}}",
-    "category": "movie_site"
+    "id": "f2movies",
+    "title": "f2movies",
+    "url": "https://www.google.com/search?rlz=1C5CHFA_enBD888BD888&sxsrf=ALeKk00E4n4OyE79JgyLruTsSKBdDUngMg%3A1588429708624&ei=jIOtXo_HJfTdz7sPtvGkgA4&q=%22{{IMDB_TITLE}}+{{IMDB_YEAR}}%22+site%3Ahttps%3A%2F%2Ff2movies.to",
+    "noResultsMatcher": "- did not match any documents.",
+    "category": "streaming"
   },
   {
     "id": "dark",
     "title": "Dark",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEUbHRuKAAOSChAtLyyYICA9PzxERkOhNTVMTktUVlOqRkZdXlxmaGWzW1t8fnvBdnaKjInGhIORk5CZm5jOlZagop+xs7Dbr7Djw8PT1dHr1dfz5ufq7On58/L/+/r9//yhFN39AAAAmElEQVQY013P3Q5CIQgAYGlsbuyIP6FSTXr/t0zq1EXMwfYNRIN94/kpwY7htYzGtxM6l2a98TGYywY+9Lqh99GVu8PgNqwV1s6sK5ioHzONa+cNlAzEr8vnFkIFUaorWaaHA2SQmEFhYsrvDkS5KApUEnJIQA7VIToIJcEJcw/W5DBnEoF4hwfudeH82jIFzz8ww3q+4y9ead4VRxi+M3oAAAAASUVORK5CYII=",
     "url": "https://dark-folder-index.theproman.workers.dev/0:search?q={{IMDB_TITLE}}",
-    "category": "movie_site"
+    "category": "streaming"
   },
   {
     "id": "criticker",
