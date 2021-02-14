@@ -15,11 +15,12 @@
     "category": "streaming"
   },
   {
-    "id": "ddg",
-    "title": "DuckDuckGo",
+    "id": "soap2day",
+    "title": "Soap2day",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACqUlEQVQ4y31TXUiTYRQ+m64uFpRdFRQkUZKY2nSmS8EpG1ZQ1EUYgVfSDyNCwqgIujBCKzW6MCKioDHFwCkZSf5mIBExtuncHG5+bU4zppN9m1Pc9vR+38R/PPDywnme5/y857xEm8ynkWu9xUl6r4rgySd4CwiThexWy/Q+zV4t7WRcYTL/p1gG/vNbxGPLWG+hHgM8Gjk4tYzfXlwkwUz1OZEcnRzH3Ku7cKUTxo8Spm/kY+FHh4j9e3ARXJEUG8WqJN7/7DqwGMFs/S3E/FOrmWfulMB1jOA+SZht0Ik+//ObEDSi2KWWl3Jl+0Rg+nYJONbzFpuwgGMB3ArCzP3LoosrS4GgJecZ6XCovw2hbwY4WaaFljo09QBDI1NYWo5hjpHf94URbG6AK4fgzCKEuj8h1G+EoCWnMpHRU5EF5wlCpPUFRgLAkbP1MPY5RCy30ghTSzvDJXCkS8FdPS36nbkEGlMkAoxlE8YyCHzrSwjv3/F9fF0PFkSHNIiZGDdK+PsooXEwDTlOrQRQJcGeyWZfmb9O6AbMhKUvrDJ2Ak0SxtsFe0ayiNqFAKMrFUxUKGBjDyU41yyKOAsQNhD8tTJEugjz79hor+SJqI0lJ1se6YPsEee79LCmESyHCfH5wGqI2ZrH8KiZ8IkE0zoJRlmCQGczgr1tsOWQnuyq3Vp7aUpiNDotzAfZJHo71oroHoQ9lWAo2iMulVd3IVF+6X4IWnEXhrPJ5atlCxTmMVl1CYGnVXjjK0dmrwYFg+ehHkgD1RxCsPoawIcxxbiCZsM2mhTEc/cSSxL/9RNfFxsh70xFoaUCja46vPYMiJjvYTkE7rb/4XcOua1KKXjjhy3LuNz+EXZlMqyMs+OPtCnpgCmTWszHKWJlPQvHnEYRC/MJ2Gb+f/b6WxPpu76IAAAAAElFTkSuQmCC",
-    "url": "https://duckduckgo.com/?q={{IMDB_TITLE}}+{{IMDB_YEAR}}",
-    "category": "search"
+    "url": "https://soap2day.ac/search/keyword/{{IMDB_TITLE}}",
+    "noResultsMatcher": "returned zero results",
+    "category": "streaming"
   },
   {
     "id": "qwant",
