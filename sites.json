@@ -922,8 +922,13 @@
     "url": [
       "http://10.16.100.244/index.php",
       {
-        "query": "{{IMDB_TITLE}}"
-      }
+       type: "POST",
+       async: false,
+       url: "command.php",
+       data: "cSearch="+val,
+       success: function(data){
+        arr = JSON.parse(data);	
+       }
     ],
     "category": "subtitles"
   },
