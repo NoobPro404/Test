@@ -79,13 +79,6 @@
     "category": "movie_site"
   },
   {
-    "id": "episodecalendar",
-    "title": "TV Episode Calendar",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAflBMVEX99PrgMZr74/HdHZDfK5feIJHeI5PhOZ787Pb98fjoaLXhNpzmWq7iPqDui8b51uvyqtXsfr/lUqr1vd/75vP86fThM5v62+3+9/vgLpjcGI3eJpT63u/qc7r40+niPJ/0tdr3yOTnX7HparbvkcndG4/cFYz///8AAAAAAACMev7qAAAAAXRSTlMAQObYZgAAAERJREFUGNNjYCAINNAANgF1JAAVkFBTE2NSU+OFC7CrQQBcQBVdQA7CZ4YLqIuA+FwIQ4GAUU0Gbgshh8F9gN03WDwLAPC0HDHwivrOAAAAAElFTkSuQmCC",
-    "url": "https://episodecalendar.com/en/shows?q%5Bname_cont%5D={{IMDB_TITLE}}",
-    "category": "tv"
-  },
-  {
     "id": "moviemistakes",
     "title": "Movie Mistakes",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACO0lEQVQ4y22RS2sTURTHs3EhdCkIUlyJoHUhqEs3bv0GRRCk4CdwoVLSZNI2aTptg8iUlFa70NlIqIvmMS0znUknhaS+IfThg8SaTJpMRoKmdiad47mZjJ2xc+HPvfd/z/2dc8/1+XDk83Axm4UWqoLa5/nKIPE3NuA27jXiS9JRTRSVmz6vsb4OQ2trALZ4Xi0QX5Ig5fRTqa8PPQGYYcENOIBcrnAG1yWnv7JSfe0JEEUoOAOJVlf3Iui33QD1+4nLm5vQh4Ff7CCO03Srip+qNesmkQVtgdf7z+Fh3crQBlFsPiNrQTBxDZBO17B5pmInSCTYgf/ffwkDDXKYydQBO385mQRYXra0tFR8guc7PG/tFxfLD4aH4QrLfuzrAmQZbtn0TEZpBYMwEAgAEI2MAMRiygImeceyAH6/5ZGZYbaGehUYjwRBx5INBJTejI7CPRJki6Lan2T58C1NH3sEMDW1F+8CBKHRz3GVGxxXvS7Luf7xcXjpBASDRjORUO84PaJwuJH3/NKxMShbQWZXgUAHpqfbrFV+xwE+3JEk+vQJAPagV7quowyyDoUOOgRA01XN7gOeKXNz78+6Ls/Pw1VHhnIk8id3XLYJ8fiHx46n/Z6ZKV1wAaJRuO8AfJ6d1QbtjLg/YpjseWyy2QPg0+rXXICJCXhhXwiFtCLxKOrfb/zY3fWdwh5t20kY5ttdFyAc1tIU1ahQVLNK09tJq6pfTylK3Y9Gt16R/eRk6znG1NCrxWJF/19hVVzTzfSONgAAAABJRU5ErkJggg==",
@@ -98,13 +91,6 @@
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAA8UExURSoqKmm2FIbHRmCxAT8/PTIyMSIiIicoJSsrKjIyMXzANnS8KTdEKU5yJFuQIHy0RF2iCEFWKV+CPHOeSaqlM1cAAAAKdFJOU+r///8Sh//+34hnFoC2AAAAaElEQVQY02WP2xKAIAgFqUy0xOv//2tqR6fGfQF3AIHUaWhirCLL+gNbMsjga3kLLpeSXcuoCwl7JaQhUn9X4yDyBeQV7G/gGWIDEFqGQIt28ejEMVSnbuL8ttaI94LFltWX45T9n/8AT98GJdi3gDIAAAAASUVORK5CYII=",
     "url": "https://imgur.com/search/score?q={{IMDB_TITLE}}+{{IMDB_YEAR}}",
     "category": "search"
-  },
-  {
-    "id": "veehd",
-    "title": "Veehd",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABTklEQVQ4y6WRoY7CQBCGJympQaAQV4WqICgMqhdqyJE0KCoQCBya1EMQJKg+wb0BEoNCYUifoLY0p2pKgrrkv91Nptnbo4LcJF/6z8w/ne2WgiCYCgoBXkTOTGg8HhcCmCyXy1888whuNBqNoDOfz3E6nXC/35GmKa7XK8qyxOVyQRRFMP3k+z6Y/X6vBmXEcQwiUqzXa3AcDgfoM+R5HiRhGEKP4XBYvUByPp+r3m63A8/RYDAAs91uK9Nms3l6guPxCH2G+v0+dGazGZIkUeYsy9Q9PB4P5HmO1WoF00+9Xg/PkBe0WCwq6nzkui7+A3U6HQSf3wqpzZy1Sdebqj45jlMVpTZz1vof0fvUbrdrt+g9qRm9Rq1W688WzvWe1Ixeo2azWRWkNvO6071131WfbNsuBGqzfDKc69/ONBoN9t3IsqyJ4EuAF5EzHz8jKv73k0dNqwAAAABJRU5ErkJggg==",
-    "url": "https://veehd.com/search?q={{IMDB_TITLE}}+{{IMDB_YEAR}}",
-    "category": "streaming"
   },
   {
     "id": "myduckisdead",
@@ -120,14 +106,6 @@
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUAAQAJDAgQDCAiHi4hIyE2ODU+PEpQUk9oaGaMj5Clp6S7vLvU1tPi5OHu8O38//uJC6zlAAAAX0lEQVQI12NggANGECEAxOwBQFwAYixgYOByAEldjWipBkkz7Xv/96UCiNH/7t03EIN93bt3N8GK/7x7dz8ApHhV34uVYBMl5+yaADF77isBCEOiBWobswGUwWTAgAQA1UYaf7VZ5TwAAAAASUVORK5CYII=",
     "url": "http://www.vintageclassix.com/search?q=tt{{IMDB_ID}}",
     "noResultsMatcher": "No posts matching the query",
-    "category": "filehoster"
-  },
-  {
-    "id": "rarelust",
-    "title": "Rarelust",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAACVBMVEUAAABIhf//+/AzBqZVAAAALUlEQVQI12NgAAEt0VAwEQAiQhgYRBlBBEMIkIsgwGJAJUDCAaaYFS4BVAICAGPrCMvSJcy9AAAAAElFTkSuQmCC",
-    "url": "http://rarelust.com/?s={{IMDB_ID}}",
-    "noResultsMatcher": "Nothing Found",
     "category": "filehoster"
   },
   {
@@ -153,18 +131,6 @@
     "url": "https://www.uloz.to/hledej?q={{IMDB_TITLE}}&type=videos",
     "noResultsMatcher": "nebylo nic nalezeno",
     "category": "streaming"
-  },
-  {
-    "id": "icc",
-    "title": "ICC",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAw1BMVEXQAABMVUBJVzxQWD5KWkNQWkVPXUFQXkJTXUdVXUNWYEtTYkZZYUdbY0hUZU5YZ0paaUxca05gb1Jfb1hicVRkc1ZoclxndllreFVufFlqflpvfmFxfltxgGNzgV1wgWl1hGZxhmF3hWF4hHN4iGp+iHF3jGZ9iXh9jG5+jW+DkGyCkXOFlHaDlXyIlIOMk4mUoI6YooqbqJaZqpGss6izuKi6urG3vrO8w7jR2c7d3dTY4NTu8O3x8/D09vP7/fr8//vLkyKIAAAAAXRSTlMAQObYZgAAAJ5JREFUGNOFj7EKwkAQBd/u3amgpQFBK0EFCYj4/9/gBwiCWNoIYhJzt/sstLFyymGaAf4hAIBDXxgGx6+o2WYpJBjjBYJ1hpHiRnNOT7LtHFVShXt/dkZV+mycgmhMkxUtaGcIEBFCGCzfFXAnCSGEVNUhrPVPYM+c54KFMVVJ4P21KV4L9rdiBtLMzEeNAFhq+zIyhu4B/o5sdvjPGwnlV+zcaSreAAAAAElFTkSuQmCC",
-    "url": [
-      "http://10.16.100.244/search",
-      {
-        "search[text]": "{{IMDB_TITLE}}"
-      }
-    ],
-    "category": "movie_site"
   },
   {
     "id": "rarefilm",
