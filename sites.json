@@ -32,7 +32,7 @@
     "id": "m4uhd",
     "title": "m4uhd",
     "url": "https://m4uhd.tv/search/{{IMDB_TITLE}}.html",
-    //"noResultsMatcher": "returned zero results",
+    "noResultsMatcher": "returned zero results",
     "category": "streaming"
   },
   {
