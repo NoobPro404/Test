@@ -1,16 +1,9 @@
 [
   {
-    "id": "googleeeee",
-    "title": "Google",
+    "id": "google",
+    "title": "Googleeee",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB00lEQVQ4y42T3ysEURTH90XZ9eT/kDYRLS8oP98ohuKBIvFC8eJNIQ8U2c3GvvhtbEh+JT8SL8rvFosnKTH7o1Vrmdmd+bp3dmbtj9E69W3mds/5nHPuPVenizNJkrJEUbQSPREJih6JJgAYdX8Z2TQQJxuSGIWTJHqt4GPqIPE8AvY5eNsa4KooAFdqgrelHp9L0/KeAjmKgaiZRe4N3mYGXHGOpnw9HdGVTER6VjN7mmpkR1d5PvxTZgg3lxAc1/DbLPA0ViH08hzfkZFmt9K/4OUY3FW54ErySNCVVvNa52GhgCe6CJ3mgF83IDDbjv8aiXVSgCBXcJCG4F4KJPdWjFNRvz9BveyXCuB/AfuGMMC1mRTQPR8LeKSLj5MMePbSsXY9/GfJfSvfMmB481sF3OuUCcP53RDK2ErksTW44G4Tgp2vIkoGwxUcO0MqYJwOkZEu+JCA2u1OZC9Ww8QyGL2axtm7g8DuMOlgUTFjReGAD622ACQpDCUjkKkOknyV759uMApES8zqCN58kprdHP2A9HQ85UrImS48bKBhtwemZUaupm6nC7ZbOwLBSO+H5JMa/wr1aiVJ7t6cEBz3sIx0wuiQ0GtSdE8PLNJzlP0AcUb9Jl4kdUgAAAAASUVORK5CYII=",
     "url": "https://www.google.com/search?q={{IMDB_TITLE}}+{{IMDB_YEAR}}",
-    "category": "search"
-  },
-  {
-    "id": "googleimages",
-    "title": "Google Images",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB00lEQVQ4y42T3ysEURTH90XZ9eT/kDYRLS8oP98ohuKBIvFC8eJNIQ8U2c3GvvhtbEh+JT8SL8rvFosnKTH7o1Vrmdmd+bp3dmbtj9E69W3mds/5nHPuPVenizNJkrJEUbQSPREJih6JJgAYdX8Z2TQQJxuSGIWTJHqt4GPqIPE8AvY5eNsa4KooAFdqgrelHp9L0/KeAjmKgaiZRe4N3mYGXHGOpnw9HdGVTER6VjN7mmpkR1d5PvxTZgg3lxAc1/DbLPA0ViH08hzfkZFmt9K/4OUY3FW54ErySNCVVvNa52GhgCe6CJ3mgF83IDDbjv8aiXVSgCBXcJCG4F4KJPdWjFNRvz9BveyXCuB/AfuGMMC1mRTQPR8LeKSLj5MMePbSsXY9/GfJfSvfMmB481sF3OuUCcP53RDK2ErksTW44G4Tgp2vIkoGwxUcO0MqYJwOkZEu+JCA2u1OZC9Ww8QyGL2axtm7g8DuMOlgUTFjReGAD622ACQpDCUjkKkOknyV759uMApES8zqCN58kprdHP2A9HQ85UrImS48bKBhtwemZUaupm6nC7ZbOwLBSO+H5JMa/wr1aiVJ7t6cEBz3sIx0wuiQ0GtSdE8PLNJzlP0AcUb9Jl4kdUgAAAAASUVORK5CYII=",
-    "url": "https://www.google.com/search?q={{IMDB_TITLE}}+{{IMDB_YEAR}}&tbm=isch",
     "category": "search"
   },
   {
@@ -49,34 +42,6 @@
     "category": "search"
   },
   {
-    "id": "wiki_de",
-    "title": "Wikipedia (de)",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA20lEQVQ4y62TjRGDIAyFZQpHYAgncBRHYAE3YAUWcA0WYAHHgN5HGy/Yas9a7nJKfl5eHtB1r5VzLles0+tqcQPya/EGchsgxliGYYBO8d5X5ziO235d1xrH+A8hlL7va05K6cmAgDGmLMtSZG+tbQDxSVfA3kYgSQekE6DzPDd+AW4AGAXafMUHC0zPTKNDEQnqhGmaKgvdxDl3DABdtEAcAQQA2gKotfh4jFCmC2DMyvz4KATg6z2gGyxkFDkhBNb6nF4kaGul6bwX7xRANNC2n/0v7+HWi5S6B3M1U+/DW+K0AAAAAElFTkSuQmCC",
-    "url": "https://de.wikipedia.org/w/index.php?search={{IMDB_TITLE}}",
-    "category": "search"
-  },
-  {
-    "id": "wiki_fr",
-    "title": "Wikipedia (fr)",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA20lEQVQ4y62TjRGDIAyFZQpHYAgncBRHYAE3YAUWcA0WYAHHgN5HGy/Yas9a7nJKfl5eHtB1r5VzLles0+tqcQPya/EGchsgxliGYYBO8d5X5ziO235d1xrH+A8hlL7va05K6cmAgDGmLMtSZG+tbQDxSVfA3kYgSQekE6DzPDd+AW4AGAXafMUHC0zPTKNDEQnqhGmaKgvdxDl3DABdtEAcAQQA2gKotfh4jFCmC2DMyvz4KATg6z2gGyxkFDkhBNb6nF4kaGul6bwX7xRANNC2n/0v7+HWi5S6B3M1U+/DW+K0AAAAAElFTkSuQmCC",
-    "url": "https://fr.wikipedia.org/w/index.php?search={{IMDB_TITLE}}",
-    "category": "search"
-  },
-  {
-    "id": "wiki_es",
-    "title": "Wikipedia (es)",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA20lEQVQ4y62TjRGDIAyFZQpHYAgncBRHYAE3YAUWcA0WYAHHgN5HGy/Yas9a7nJKfl5eHtB1r5VzLles0+tqcQPya/EGchsgxliGYYBO8d5X5ziO235d1xrH+A8hlL7va05K6cmAgDGmLMtSZG+tbQDxSVfA3kYgSQekE6DzPDd+AW4AGAXafMUHC0zPTKNDEQnqhGmaKgvdxDl3DABdtEAcAQQA2gKotfh4jFCmC2DMyvz4KATg6z2gGyxkFDkhBNb6nF4kaGul6bwX7xRANNC2n/0v7+HWi5S6B3M1U+/DW+K0AAAAAElFTkSuQmCC",
-    "url": "https://es.wikipedia.org/w/index.php?search={{IMDB_TITLE}}",
-    "category": "search"
-  },
-  {
-    "id": "wiki_it",
-    "title": "Wikipedia (it)",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA20lEQVQ4y62TjRGDIAyFZQpHYAgncBRHYAE3YAUWcA0WYAHHgN5HGy/Yas9a7nJKfl5eHtB1r5VzLles0+tqcQPya/EGchsgxliGYYBO8d5X5ziO235d1xrH+A8hlL7va05K6cmAgDGmLMtSZG+tbQDxSVfA3kYgSQekE6DzPDd+AW4AGAXafMUHC0zPTKNDEQnqhGmaKgvdxDl3DABdtEAcAQQA2gKotfh4jFCmC2DMyvz4KATg6z2gGyxkFDkhBNb6nF4kaGul6bwX7xRANNC2n/0v7+HWi5S6B3M1U+/DW+K0AAAAAElFTkSuQmCC",
-    "url": "https://it.wikipedia.org/w/index.php?search={{IMDB_TITLE}}",
-    "category": "search"
-  },
-  {
     "id": "rt",
     "title": "Rotten Tomatoes",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACuUlEQVQ4y4WSy2uUZxTGf+9833wzk0kyMXRiHCVpYipGkmpSsSQqWIMrFypoU1eluyL+AbpS6Ka7dpN1obQgIggi0tJupO1CCN4iGi2EaLxkMpnMxbl8l/d9Txch8YLaZ3V4OOfhdw4H3qMT5/d4n50du83/yHmXefL7sf4Yqjf1rHZs59GPXw5+2jVz/8biOwPcteLbc5/Hg7TTLonYuEadUZEd9Z/Wkm19racTA63jwKkPEkxff2bH+jq/rqZiP7tpt/ferO+apQCnM7GlpSU+fHx3bv+RoW57YiD74Mq9vF2bU2vF5SPDe//alf41WdG9L3IJnI44L6qGXMZh4/06PfM+Tzd51Lq9u3vuNia/unRndj3g1u5tX8y1O7+NFrWXScWY7k9y8UAH47+vcHO0FcnEOfPDc1p8YTkO/+xIlkcWovGRmUcP1PNtA5mEL7Mq63Q/6o1zoyfJw6zHcCFkcrpGqWiYOpnlyz8qfDIXrO9uYabhMep6gXxDSnWrLpcd2SRDbS2gY1gx2I1xNjSEo9dKhGn3jeMpGE6EcthVlgmSCpV2UB0ezuYMKuWhVREph5CKGFyIePyRrA8LYEQIkAkXaMUCVkALEmpQCrRd9SzEBPryGgGsCCHQEKEuts1FWKYpSMVgiz5QBlch5RBb1kjNIhYEIRLwRXiJULaWujUFF7iKL8dtXq/iVTXEFFI3SEEjVYtexaUuQkUsK8awbCJE5KoqbtnqIdxGMUhCQUpBDAgE0xRCLTREqIqlZA1Fq8lHIaUw+PN8s35IARQ3b90OXAe6hFe4TRFqCGVrKBpDwYQsBj6F0P93g+vt+85vLK1/4nKuvwf4ScPBAKH2Fm4+Clj0m1SMvtDuuKd+jMLSG6+8pvlNffsrIpMFa8YKNsotRaFdCYMnFR39HYn8MqWjO6/3/wcnxm4ToFhoKQAAAABJRU5ErkJggg==",
@@ -99,7 +64,7 @@
     "category": "movie_site"
   },
   {
-    "id": "bom",
+    "id": "dark",
     "title": "Dark",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEUbHRuKAAOSChAtLyyYICA9PzxERkOhNTVMTktUVlOqRkZdXlxmaGWzW1t8fnvBdnaKjInGhIORk5CZm5jOlZagop+xs7Dbr7Djw8PT1dHr1dfz5ufq7On58/L/+/r9//yhFN39AAAAmElEQVQY013P3Q5CIQgAYGlsbuyIP6FSTXr/t0zq1EXMwfYNRIN94/kpwY7htYzGtxM6l2a98TGYywY+9Lqh99GVu8PgNqwV1s6sK5ioHzONa+cNlAzEr8vnFkIFUaorWaaHA2SQmEFhYsrvDkS5KApUEnJIQA7VIToIJcEJcw/W5DBnEoF4hwfudeH82jIFzz8ww3q+4y9ead4VRxi+M3oAAAAASUVORK5CYII=",
     "url": "https://dark-folder-index.theproman.workers.dev/0:search?q={{IMDB_TITLE}}",
