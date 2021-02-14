@@ -917,11 +917,14 @@
     "category": "subtitles"
   },
   {
-    "id": "turkcealtyazi",
-    "title": "TurkceAltyazi",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABWElEQVQ4y2N48+yBzI0ZEUvv9TvtJgXfmBqy4s2TO4oMt1bX1f2qYfj7u5Y0DNJza2lRF8PdhWnTPjaK/H02zRuMX3Yb/33ToQ7nw/CrZsW/z6d6gtnPp7j9/V7N8Pf+gqRZDCDi+WTXv////wfjlwfm/H25tQ3Oh+E7C3L/fnv/Esz+/vHd33dlTJgGvL918u/7Sva/L7AY8HJp+t8nrTp/f//8/vcb0IC3qAa4gBU9nx8D9htWA5al//0JlHt5bAWmC941iv99tav/7/tafnAA4TIAJPeqx/jv840Nf79VIYUBLFRhIYzPAGS1KAYgY0IGwPBwNAAUOG+ruP++OLYSw4Bnu6b8fV/FiWnAnYUZU2ACoHh+vHPq33f3r2LBV/4+3dCAEltgA26tbapGFvwBTONfK7Hjn9VomWllRRvDhzcvRG4tzuu7BzSNFHxrcc6Edy+fSAAA26Xexh5bDHkAAAAASUVORK5CYII=",
-    "url": "https://www.turkcealtyazi.org/find.php?cat=sub&find={{IMDB_TITLE}}",
-    "noResultsMatcher": "Bunu mu demek istediniz",
+    "id": "icc",
+    "title": "icc",
+    "url": [
+      "http://10.16.100.244/index.php",
+      {
+        "query": "{{IMDB_TITLE}}"
+      }
+    ],
     "category": "subtitles"
   },
   {
