@@ -29,6 +29,48 @@
     "category": "streaming"
   },
   {
+    "id": "m4uhd",
+    "title": "m4uhd",
+    "url": "https://m4uhd.tv/search/{{IMDB_TITLE}}.html",
+    //"noResultsMatcher": "returned zero results",
+    "category": "streaming"
+  },
+  {
+    "id": "timepassbd",
+    "title": "TimePass",
+    "url": "http://timepassbd.live/msearch.php?q=&searchquery={{IMDB_TITLE}}&q=M",
+    "noResultsMatcher": "Sorry, but nothing matched your search criteria. Please try again with some different keywords.",
+    "category": "streaming"
+  },
+  {
+    "id": "unique",
+    "title": "Unique",
+    "url": "http://103.91.144.230/msearch.php?q=&searchquery={{IMDB_TITLE}}&q=M",
+    "noResultsMatcher": "Sorry, but nothing matched your search criteria. Please try again with some different keywords.",
+    "category": "streaming"
+  },
+  {
+    "id": "mlsbd",
+    "title": "MLS-BD",
+    "url": "https://mls-bd.com/?s={{IMDB_TITLE}}",
+    "noResultsMatcher": "Nothing Found",
+    "category": "streaming"
+  },
+  {
+    "id": "mlwbd",
+    "title": "MLW-BD",
+    "url": "https://mlwbd.pro/?s={{IMDB_TITLE}}",
+    "noResultsMatcher": "Nothing Found",
+    "category": "streaming"
+  },
+  {
+    "id": "fsharetv",
+    "title": "fShareTV",
+    "url": "https://www.google.com/search?rlz=1C5CHFA_enBD888BD888&sxsrf=ALeKk01MXXso3I2L-VtPlM3SY-OtijlK8w%3A1588427945324&ei=qXytXq-8E7KM4-EPwMe5mAs&q=%22+tt{{IMDB_ID}}%22+site%3Ahttps%3A%2F%2Ffsharetv.co",
+    "noResultsMatcher": "- did not match any documents.",
+    "category": "streaming"
+  },
+  {
     "id": "yt",
     "title": "YouTube",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVQ4y2NgGB7gmaK4GhDvAeL7QPwOiL8C8X80/BUqB1KzG4iVkA3YhEUDIbwW2YBnZBhwD9mA7+gKfl268P9DRdH/59pKuAx4h2wAhgIY+Pf50/+vS+b/f2lniq7mL1EG/Lp25f/7vIz/z1Sk8BrwDd2An6dP/H+bGPX/mZIELi+8pWogbiTDgNXIBigD8RYgvgPEb4D4ExYNH4H4NRDfBeJtQKw4TPIRADVAMY00MJoyAAAAAElFTkSuQmCC",
