@@ -22,11 +22,11 @@
     "category": "streaming"
   },
   {
-    "id": "qwant",
-    "title": "Qwant",
-    "icon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAAAAAAAAAAAAAAAMwnrwDMJ68AzCevGswnr1rMJ6+SzCevrcwnr6jMJ6+IzCevK91tdgDqoks16qJLp+qiS63qokucAAAAAMwnrwDMJ68JzCevYc0nr83OJ674zieu/80nrv/NJ6//zCev9MwmsEf//wAB6qJLneqiS//qokv/6qJLqMwnrwDMJ68LzSeujM0nrvfEKLT/sCvA/6ctxvawK8DlwSm26MsnsKvEANEI6qRKOuqiS+zqokv/6qJL4OqiSzS3KrwAzieudMYosvqYL8//aDbs9FY596FSOvpHXTj0JJUv0SW+KLgY/8kgAeqiS5rqokv/6qJL/+qjTJ3puFgC0SasMsIptd98M+D/TDv980Y8/208Pf8GQjz/AAAAAAAAAAAA6qJLAOqiSwDqokts6qJL9eqiS//qqU/P6MZgIcgosoqEMtv/STv//0k7/5VLO/8FSjv/AAAAAAAAAAAAAAAAAAAAAADqoksA6qJLBuqiS5vqokv/6apQ/OjGYHafLMvJVDf5/0o6/+9KO/84Sjv/AAAAAAAAAAAAAAAAAAAAAAAAAAAA6qJLAOqiSwDqoks96qJL8emqUP/nyGK8aU3m5Dhz/v9BWP/VTDT/Fko7/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADqoksA6qJLGeqhS9nprVL/58xk3Sm5+OUW2v3/H8j80y6h+RQspvkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6qJLAOqiSxfqoUvX6bhY/+fOZeET2/7OFdv9/xvc9+oz19UwLtjdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOqhSwDqoEo06qhP7efHYf/nz2XKFNr+kxbb/f8c2/f/PtPEg/9kAAFsx30AAAAAAAAAAAAAAAAAAAAAAOuZRgDubSwB6qZOiOi9W//nzmX/585lkBTb/jsW2/3mGNz9/zXW0uplyYlTgcJcAWfJhQAAAAAAAAAAAOWyVgDaq1MB67RVV+nAXeznzWX/585l5ufOZToR2/8DFtv9gxjc/P0h2/L/T8+r6mjIg4FmyYYsZsmHEGbJhxFkyYgtb8eEhJrId+vXzWn/6M5l/efOZYTnzmUDF9v8ABfb/REZ3PygG937/Cna6P9UzqX+ZsmG6GfJhc1myYfOZsmH6WbJh/5kyYj/qsx1/erOZKLnzmUS585lABjc/AAa3PsAGtz7EBzd+nse3vriJ9zt/kTUwP9bzZv/Y8qN/2TKiv9kyov+ZsqJ4pvLeX39z18R585lAOfOZQAAAAAAAAAAAB3d+gAc3PoCH975MCHe+YMk3/e/L93n2T3Z0dhI1r++UNOxglzOnTCGx28DdcqDAAAAAAAAAAAA4BAAAMAAAACAAAAAAAAAAAPAAAAH4AAAD/AAAA/wAAAP8AAAD/AAAAfgAAADwAAAAAAAAIABAADAAwAA4AcAAA==",
-    "url": "https://www.qwant.com/?q={{IMDB_TITLE}} {{IMDB_YEAR}}",
-    "category": "search"
+    "id": "kissasian",
+    "title": "Kissasian",
+    "url": "https://www.google.com/search?q={{IMDB_TITLE}}%20site%3Ahttps%3A%2F%2Fkissasian.sh%2F&ie=utf-8",
+    "noResultsMatcher": "Sorry, your query did not return any results.",
+    "category": "streaming"
   },
   {
     "id": "yt",
