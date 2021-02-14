@@ -7,11 +7,12 @@
     "category": "search"
   },
   {
-    "id": "bing",
-    "title": "Bing",
+    "id": "fm",
+    "title": "fm",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOBAMAAADpk+DfAAAAGFBMVEVPUU5hW0ZtYkGLczSkginElRnZoxL+uQNIeozOAAAARElEQVQI12MoBwOGAhUIxQihGKBUkRuYKmYQSQcJMjCwg6hiEMVUZgCi1AwYGMMZigwYGNzLgeoYzIAaygNFQdohRgMAOIQZ19+LH9IAAAAASUVORK5CYII=",
-    "url": "https://www.bing.com/search?q={{IMDB_TITLE}}+{{IMDB_YEAR}}",
-    "category": "search"
+    "url": "https://fmovies.to/search?keyword={{IMDB_TITLE}}",
+    "noResultsMatcher": "returned zero results",
+    "category": "streaming"
   },
   {
     "id": "ddg",
