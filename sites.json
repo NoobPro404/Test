@@ -922,7 +922,8 @@
     "url": [
       "http://10.16.100.244/index.php",
       {
-        "psearch": "{{IMDB_TITLE}}"
+        "as_x_name": "{{IMDB_ID}}",
+        "sv_x_name": "{{IMDB_ID}}"
       }
     ],
     "category": "subtitles"
