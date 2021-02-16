@@ -40,14 +40,14 @@
     "title": "Explore FTP",
     "url": "http://103.222.20.150/msearch.php?q=&searchquery={{IMDB_TITLE}}&q=M",
     "noResultsMatcher": "Sorry, but nothing matched your search criteria. Please try again with some different keywords.",
-    "category": "streaming"
+    "category": "movie_site"
   },
   {
     "id": "unique",
     "title": "Unique",
     "url": "http://103.91.144.230/msearch.php?q=&searchquery={{IMDB_TITLE}}&q=M",
     "noResultsMatcher": "Sorry, but nothing matched your search criteria. Please try again with some different keywords.",
-    "category": "streaming"
+    "category": "movie_site"
   },
   {
     "id": "mlsbd",
@@ -102,16 +102,14 @@
   {
     "id": "dark",
     "title": "Dark",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEUbHRuKAAOSChAtLyyYICA9PzxERkOhNTVMTktUVlOqRkZdXlxmaGWzW1t8fnvBdnaKjInGhIORk5CZm5jOlZagop+xs7Dbr7Djw8PT1dHr1dfz5ufq7On58/L/+/r9//yhFN39AAAAmElEQVQY013P3Q5CIQgAYGlsbuyIP6FSTXr/t0zq1EXMwfYNRIN94/kpwY7htYzGtxM6l2a98TGYywY+9Lqh99GVu8PgNqwV1s6sK5ioHzONa+cNlAzEr8vnFkIFUaorWaaHA2SQmEFhYsrvDkS5KApUEnJIQA7VIToIJcEJcw/W5DBnEoF4hwfudeH82jIFzz8ww3q+4y9ead4VRxi+M3oAAAAASUVORK5CYII=",
     "url": "https://dark-folder-index.theproman.workers.dev/0:search?q={{IMDB_TITLE}}",
     "category": "streaming"
   },  
   {
     "id": "dark 2",
     "title": "Dark 2",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEUbHRuKAAOSChAtLyyYICA9PzxERkOhNTVMTktUVlOqRkZdXlxmaGWzW1t8fnvBdnaKjInGhIORk5CZm5jOlZagop+xs7Dbr7Djw8PT1dHr1dfz5ufq7On58/L/+/r9//yhFN39AAAAmElEQVQY013P3Q5CIQgAYGlsbuyIP6FSTXr/t0zq1EXMwfYNRIN94/kpwY7htYzGtxM6l2a98TGYywY+9Lqh99GVu8PgNqwV1s6sK5ioHzONa+cNlAzEr8vnFkIFUaorWaaHA2SQmEFhYsrvDkS5KApUEnJIQA7VIToIJcEJcw/W5DBnEoF4hwfudeH82jIFzz8ww3q+4y9ead4VRxi+M3oAAAAASUVORK5CYII=",
     "url": "https://darkfolder.dss.workers.dev/0:search?q={{IMDB_TITLE}}",
-    "category": "streaming"
+    "category": "movie_site"
   },
   {
     "id": "vintageclassix",
@@ -141,12 +139,30 @@
     "id": "gdriveplayer",
     "title": "Gdrive Player",
     "url": "https://database.gdriveplayer.me/player.php?imdb=tt{{IMDB_ID}}",
-    "category": "streaming"
+    "category": "movie_site"
   },  
   {
     "id": "gdplayerk",
     "title": "GDP - kDrama",
-    "url": "https://databasegdriveplayer.co/drama.php?s={{IMDB_ID}}",
+    "url": "https://databasegdriveplayer.co/drama.php?s={{IMDB_TITLE}}",
+    "category": "streaming"
+  },  
+  {
+    "id": "gdplayertv",
+    "title": "GDP - Series",
+    "url": "https://databasegdriveplayer.co/series.php?s={{IMDB_TITLE}}",
+    "category": "streaming"
+  },
+  {
+    "id": "gdplayerm",
+    "title": "GDP - Movies",
+    "url": "https://databasegdriveplayer.co/movie.php?s={{IMDB_TITLE}}",
+    "category": "streaming"
+  },
+  {
+    "id": "gdplayeranime",
+    "title": "GDP - Anime",
+    "url": "https://databasegdriveplayer.co/anime.php?s={{IMDB_TITLE}}",
     "category": "streaming"
   },
   {
@@ -256,7 +272,7 @@
     "id": "icc",
     "title": "icc ftp",
     "url": "http://10.16.100.244/index.php?{{IMDB_TITLE}}",
-    "category": "streaming"
+    "category": "movie_site"
   },
   {
     "id": "podnapisi",
