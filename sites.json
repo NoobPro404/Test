@@ -95,7 +95,7 @@
   {
     "id": "f2movies",
     "title": "f2movies",
-    "url": "https://www.google.com/search?rlz=1C5CHFA_enBD888BD888&sxsrf=ALeKk00E4n4OyE79JgyLruTsSKBdDUngMg%3A1588429708624&ei=jIOtXo_HJfTdz7sPtvGkgA4&q=%22{{IMDB_TITLE}}%22+site%3Ahttps%3A%2F%2Ff2movies.to",
+    "url": "https://www.google.com/search?rlz=1C5CHFA_enBD888BD888&sxsrf=ALeKk03sj7LZPXCQI0-uRI0PMrpP_annyw%3A1614230504159&ei=6DM3YNqXCdqK4-EPvImugAI&q=%22{{IMDB_TITLE}}%22+site%3Ahttps%3A%2F%2Ff2movies.to&oq=%22{{IMDB_TITLE}}%22+site%3Ahttps%3A%2F%2Ff2movies.to&gs_lcp=Cgdnd3Mtd2l6EANQw6YSWMOmEmDUwxJoAnAAeACAAYMCiAHKA5IBBTAuMS4xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=gws-wiz&ved=0ahUKEwjaq6SepYTvAhVaxTgGHbyECyAQ4dUDCA0&uact=5",
     "noResultsMatcher": "- did not match any documents.",
     "category": "streaming"
   },
