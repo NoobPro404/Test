@@ -200,7 +200,7 @@
     "id": "torrentdownloads",
     "title": "Torrent Downloads",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEUAMF0LNmMIP2wbSXcpU4IqXow8ZpAAf8MRhckAis4okM4lmd40l9YtoN48nNxDoeE2peRKpudMq+RaquZVsuxjsu5muO1tu/d2v+9ywPx8xvaKzPeW0vil1/+u2/2x3/88iP8IAAAAZUlEQVQY02WPOwqFAAwER8kDSxE/eP/TqWAtKLsW+pTgkmaHISTFSE6oSn0r+RhOXYGZABheo2diwLchA8YL0IFK+Z/Ws62wAKNrcCgDfQECmgdw7QDMSi1cVL906f4Ydxwc+bkTQKZNE4WywAAAAAAASUVORK5CYII=",
-    "url": "https://www.torrentdownloads.me/search/?search={{IMDB_TITLE}}+{{IMDB_YEAR}}",
+    "url": "https://www.torrentdownloads.me/search/?new=1&s_cat=0&search={{IMDB_TITLE}}",
     "noResultsMatcher": "total <span class=\"num\">0</span> torrents found",
     "category": "pub_tracker"
   },
