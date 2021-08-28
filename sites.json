@@ -43,10 +43,9 @@
     "category": "streaming"
   },
   {
-    "id": "explore",
-    "title": "Explore FTP",
-    "url": "http://103.222.20.150/msearch.php?q=&searchquery={{IMDB_TITLE}}&q=M",
-    "noResultsMatcher": "Sorry, but nothing matched your search criteria. Please try again with some different keywords.",
+    "id": "dbox",
+    "title": "DBox",
+    "url": "https://dbox.to/?s={{IMDB_TITLE}}",
     "category": "movie_site"
   },
   {
