@@ -99,9 +99,9 @@
     "category": "streaming"
   },
   {
-    "id": "dark",
-    "title": "Dark",
-    "url": "https://dark-folder-index.theproman.workers.dev/0:search?q={{IMDB_TITLE}}",
+    "id": "rinzry",
+    "title": "rinzry",
+    "url": "https://rinzry.stream/0:search?q={{IMDB_TITLE}}",
     "category": "streaming"
   },  
   {
