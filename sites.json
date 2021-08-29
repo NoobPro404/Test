@@ -81,7 +81,7 @@
     "id": "rinzry",
     "title": "rinzry", 
     "url": "https://rinzry.stream/0:search?q={{IMDB_TITLE}}",
-    "noResultsMatcher": "Total <span class="number text-center">0</span> items",
+    "noResultsMatcher": "Total <span>0</span> items",
     "category": "movie_site"
   },
   {
