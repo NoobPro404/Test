@@ -85,9 +85,10 @@
     "category": "movie_site"
   },  
   {
-    "id": "dark 2",
-    "title": "Dark 2",
-    "url": "https://darkfolder.dss.workers.dev/0:search?q={{IMDB_TITLE}}",
+    "id": "movies4discord",
+    "title": "movies4discord", 
+    "url": "https://movies4discord.xyz/search?q={{IMDB_TITLE}}",
+    "noResultsMatcher": "No search results!",
     "category": "movie_site"
   },
   {
