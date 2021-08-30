@@ -24,6 +24,7 @@
   {
     "id": "kissasian",
     "title": "Kissasian",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUgAAALPOoMRtIAUt4eTb4eUNEZVc8bWcgcaMwlachwcP9gfvKMkv/h5f/s7f75+f/9//zal4f2AAAAAXRSTlMAQObYZgAAAGRJREFUGNNNT0cCwCAIo9aBHcL/X9uy1FwwEUgAEJz4o0CgoKMZxw3rv5uQZwM90eILmGONtLOCWOZ04jXlxhDwEn7gEqoIVZ0giyPxGEzuK2WokSfbg1r4jXc7JgWv816Vkj4/5zEHVLDKOPkAAAAASUVORK5CYII=",
     "url": "https://www.google.com/search?q={{IMDB_TITLE}}%20site%3Ahttps%3A%2F%2Fkissasian.sh%2F&ie=utf-8",
     "noResultsMatcher": "Sorry, your query did not return any results.",
     "category": "streaming"
@@ -38,6 +39,7 @@
   {
     "id": "dbox",
     "title": "DBox",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUgAAALPOoMRtIAUt4eTb4eUNEZVc8bWcgcaMwlachwcP9gfvKMkv/h5f/s7f75+f/9//zal4f2AAAAAXRSTlMAQObYZgAAAGRJREFUGNNNT0cCwCAIo9aBHcL/X9uy1FwwEUgAEJz4o0CgoKMZxw3rv5uQZwM90eILmGONtLOCWOZ04jXlxhDwEn7gEqoIVZ0giyPxGEzuK2WokSfbg1r4jXc7JgWv816Vkj4/5zEHVLDKOPkAAAAASUVORK5CYII=",
     "url": "https://dbox.to/?s={{IMDB_TITLE}}",
     "category": "movie_site"
   },
@@ -51,6 +53,7 @@
   {
     "id": "fsharetv",
     "title": "fShareTV",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUgAAALPOoMRtIAUt4eTb4eUNEZVc8bWcgcaMwlachwcP9gfvKMkv/h5f/s7f75+f/9//zal4f2AAAAAXRSTlMAQObYZgAAAGRJREFUGNNNT0cCwCAIo9aBHcL/X9uy1FwwEUgAEJz4o0CgoKMZxw3rv5uQZwM90eILmGONtLOCWOZ04jXlxhDwEn7gEqoIVZ0giyPxGEzuK2WokSfbg1r4jXc7JgWv816Vkj4/5zEHVLDKOPkAAAAASUVORK5CYII=",
     "url": "https://www.google.com/search?rlz=1C5CHFA_enBD888BD888&sxsrf=ALeKk01MXXso3I2L-VtPlM3SY-OtijlK8w%3A1588427945324&ei=qXytXq-8E7KM4-EPwMe5mAs&q=%22+tt{{IMDB_ID}}%22+site%3Ahttps%3A%2F%2Ffsharetv.co",
     "noResultsMatcher": "- did not match any documents.",
     "category": "movie_site"
@@ -139,30 +142,35 @@
   {
     "id": "gdriveplayer",
     "title": "Gdrive Player",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJlJREFUOMutk9EJwCAMRDNKR8tUDuES/ffHQfwouID1pJEQ2lK1wgMJd1eTKjnnyMCVvVIMqDHZpYxbJd4YLdBsNgDm44NZOHrIFdC+7L0vOecG9mJ4qEcJYBFCICul1AOwlwWNOgmTHthEwE66NxwPYmBbuKsDehtWCKHxpvk3YLaF5SEu/8bpiwTv0lXWAcOPSXw0+pyt/gS3Kr6Pq2iRXAAAAABJRU5ErkJggg==",
     "url": "https://database.gdriveplayer.me/player.php?imdb=tt{{IMDB_ID}}",
     "category": "movie_site"
   },  
   {
     "id": "gdplayerk",
     "title": "GDP - kDrama",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJlJREFUOMutk9EJwCAMRDNKR8tUDuES/ffHQfwouID1pJEQ2lK1wgMJd1eTKjnnyMCVvVIMqDHZpYxbJd4YLdBsNgDm44NZOHrIFdC+7L0vOecG9mJ4qEcJYBFCICul1AOwlwWNOgmTHthEwE66NxwPYmBbuKsDehtWCKHxpvk3YLaF5SEu/8bpiwTv0lXWAcOPSXw0+pyt/gS3Kr6Pq2iRXAAAAABJRU5ErkJggg==",
     "url": "https://databasegdriveplayer.co/drama.php?s={{IMDB_TITLE}}",
     "category": "streaming"
   },  
   {
     "id": "gdplayertv",
     "title": "GDP - Series",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJlJREFUOMutk9EJwCAMRDNKR8tUDuES/ffHQfwouID1pJEQ2lK1wgMJd1eTKjnnyMCVvVIMqDHZpYxbJd4YLdBsNgDm44NZOHrIFdC+7L0vOecG9mJ4qEcJYBFCICul1AOwlwWNOgmTHthEwE66NxwPYmBbuKsDehtWCKHxpvk3YLaF5SEu/8bpiwTv0lXWAcOPSXw0+pyt/gS3Kr6Pq2iRXAAAAABJRU5ErkJggg==",
     "url": "https://databasegdriveplayer.co/series.php?s={{IMDB_TITLE}}",
     "category": "streaming"
   },
   {
     "id": "gdplayerm",
     "title": "GDP - Movies",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJlJREFUOMutk9EJwCAMRDNKR8tUDuES/ffHQfwouID1pJEQ2lK1wgMJd1eTKjnnyMCVvVIMqDHZpYxbJd4YLdBsNgDm44NZOHrIFdC+7L0vOecG9mJ4qEcJYBFCICul1AOwlwWNOgmTHthEwE66NxwPYmBbuKsDehtWCKHxpvk3YLaF5SEu/8bpiwTv0lXWAcOPSXw0+pyt/gS3Kr6Pq2iRXAAAAABJRU5ErkJggg==",
     "url": "https://databasegdriveplayer.co/movie.php?s={{IMDB_TITLE}}",
     "category": "streaming"
   },
   {
     "id": "gdplayeranime",
     "title": "GDP - Anime",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJlJREFUOMutk9EJwCAMRDNKR8tUDuES/ffHQfwouID1pJEQ2lK1wgMJd1eTKjnnyMCVvVIMqDHZpYxbJd4YLdBsNgDm44NZOHrIFdC+7L0vOecG9mJ4qEcJYBFCICul1AOwlwWNOgmTHthEwE66NxwPYmBbuKsDehtWCKHxpvk3YLaF5SEu/8bpiwTv0lXWAcOPSXw0+pyt/gS3Kr6Pq2iRXAAAAABJRU5ErkJggg==",
     "url": "https://databasegdriveplayer.co/anime.php?s={{IMDB_TITLE}}",
     "category": "streaming"
   },
@@ -187,6 +195,14 @@
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABp0lEQVQ4y4WTP0jDQBTGI1KEOmcODh3M4lTEKZNL9hslYyGbcJtIcChCwC2LUxARIXOcHDLfKNziFByDgwgBEZHn9y6X2tYUD3695r2X7333Jw4RbQEPnIFLMB9gBia2dgUHP0fgkf4f7+AcjNYFTsFbpRsSUpFIVomAzDRx3o6rQYFSNTSNKgriysxDFJUR+QD7fx1AgF8OgUzREc8Md+cY59hN27mYDQqEsjJkhe7tfjdoykvhOM9Nt5KLQQHBRWsCdd2icxeP04WDaLMAipNMGftlVWM52ExZUhCVlJe6P429DQKlIYwL8kXeEXawqB3z4VNANz/MyAtSmoqMwig3/xmO81Js98mgQAF7Y18a4qQwrXjmZ3cq4SrvHTyAnQEBheKYxl5EseyK27alaZj8xq3w8jKWBCpyPEGOKyiSGRd98aVRuibXjyDQ5bK87EX4JEYLgbyAwDgwiDjlglf7gX3yS47b5Rw3xOmYDX0BJyxwDFTTtKQU30CNDTO35cna5LtPSutFXsMVxjMQji06ANfgDtyCG3Boc7v25t3bHNfkNr/9Azy0EznasaqWAAAAAElFTkSuQmCC",
     "url": "https://rarbg.to/torrents.php?search=tt{{IMDB_ID}}",
     "noResultsMatcher": ["EL_COUNT", ".lista2t tr", "GT", 1],
+    "category": "pub_tracker"
+  },
+  {
+    "id": "torrentgalaxy",
+    "title": "TorrentGalaxy",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADXklEQVQ4y22Ty28bVRyFz+/eeflt51U7TqipHZqWhAopKkJBsKG8hFhABX9AF4gNUmEBG5BYVEJiU4kVG1ZIqN2URiwKQgIhtRFNQEDTNMJukhIHJ47tsWdsj8cz914WEFQQ3/470tHRIdzHVvUh5lg21yrTmiI9yJ5oCQ4NtW2LlGOY4dEdEdUMkUBcZnNrCgDoUF6vlLSuqxLJncIjSpD0Cn9smOmhTiDmB2pgbEznNaHne2N7P7NcuzluJYf5qTVFAHB7Y4a3nXBstFp6TYWs0BzduTKZZqWEMJ4iRZbHg9Xq0FuO7U4vWjCz7fHqJ2zC3V44ue3T1tYJ2m44qbHd0lnLS75Z1asXJ3J+egqxt7likwAgSfVs8j+91eh+Xewdf4tpsrx3pHwhkcEuu9dwdd7IFCOD5BtDFXZsrdUZUdazhzIAMEWxhNSfM0yZdGXvjh5ar8RaRxZrTjfC9tqeFetlHudSmx+q4CAQUkAiif9AiuIkSPfgH5CidMSPn/HaPM16NkW10JwlkM6ImNsXbmsQrCtA0H0BThBW9jt+XSPGCcS51Eqya2RY11WaFMoEAIP0rKH04c3fO0v3nP61figaAyE7+31/5cfdzmftbliPUWQKAJSCNvCUztqdMPRE0AIAA/qx6chIfrPW+/XSD/WPrq7V3/vydv39Syv7HyyvO9/mk4lIlKxTBCCQwrZ7/oDZLTlo+O5vQgmHKz4+gbEXFhaihuMGt774xr5y+avm5Y2yt3zqMdYv6LkndWmcUIDqhP07e7bn0LnXU9ZcKfXo09mTF5M8elqS7PRj7Y/9ifqSYtIFoIhg8mbmdLw9/i6XWnGowtqKXTn/fXnnGp15JsFKD1PuxeOz52YTk+9wYlFFqid5uEmkun/VhUmCP8AkHwegdgetz5furl3YrAQVAoCzryajM8XI3PPHZs9PRUde5sQM/A8SSrb87vJ31fKHq+XG9ZvX/TYBwPy8xR4saemZQmzuicLRl6biqUVT08YIxP521VAIp+65P61Uq1d/2Wyt1nbUwY0bvfCfqYtFk2fzPJHKYCI7auXSMSPFOWkAICVkdxC4taa3bzflXrOuOuvrg+BfbwQAIrB0mmvxODN1EzrjIAIgJFQ4RNjvyaFty6EQSh46fwJKXa69yBEZmwAAAABJRU5ErkJggg==",
+    "url": "https://torrentgalaxy.to/torrents.php?search=tt{{IMDB_ID}}",
+    "noResultsMatcher": "Sorry. No results found...",
     "category": "pub_tracker"
   },
   {
