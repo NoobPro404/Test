@@ -9,9 +9,9 @@
   },
   {
     "id": "fbox",
-    "title": "fbox",
+    "title": "www3 fbox",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOBAMAAADpk+DfAAAAGFBMVEVPUU5hW0ZtYkGLczSkginElRnZoxL+uQNIeozOAAAARElEQVQI12MoBwOGAhUIxQihGKBUkRuYKmYQSQcJMjCwg6hiEMVUZgCi1AwYGMMZigwYGNzLgeoYzIAaygNFQdohRgMAOIQZ19+LH9IAAAAASUVORK5CYII=",
-    "url": "https://fbox.to/search?keyword={{IMDB_TITLE}}",
+    "url": "https://www3.fbox.to/search?keyword={{IMDB_TITLE}}&verified=C5JZNxE98BWYYifEK%2F4z54cPIJ4gsp6qOYzD28w79APq",
     "category": "streaming"
   },
   {
