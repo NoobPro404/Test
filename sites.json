@@ -304,7 +304,7 @@
     "url": [
       "http://10.16.100.244/index.php?",
       {
-        "query": "{{IMDB_TITLE}}"
+        "psearch": "{{IMDB_TITLE}}"
       }
     ],
     "category": "movie_site"
