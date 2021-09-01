@@ -305,9 +305,7 @@
     "url": [
       "http://10.16.100.244/index.php?",
       {
-        "fproductlistsrch": "1",
-        "token": "1",
-        "psearch": "{{IMDB_TITLE}}"
+        "text": "{{IMDB_TITLE}}"
       }
     ],
     "category": "movie_site"
