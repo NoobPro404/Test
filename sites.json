@@ -298,6 +298,17 @@
     "url": "http://10.16.100.244/index.php?{{IMDB_TITLE}}",
     "category": "movie_site"
   },
+    {
+    "id": "icc2",
+    "title": "ICC FTP2",
+    "url": [
+      "http://10.16.100.244/index.php?",
+      {
+        "query": "{{IMDB_TITLE}}"
+      }
+    ],
+    "category": "movie_site"
+  },
   {
     "id": "showtimebd",
     "title": "Showtime",
