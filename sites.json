@@ -85,6 +85,12 @@
     "title": "rinzry", 
     "url": "https://rinzry.stream/0:search?q={{IMDB_TITLE}}",
     "category": "movie_site"
+  },  
+  {
+    "id": "moviesss",
+    "title": "moviesss", 
+    "url": "https://download-moviesss.herokuapp.com/?search={{IMDB_TITLE}}",
+    "category": "movie_site"
   },
   {
     "id": "movies4discord",
