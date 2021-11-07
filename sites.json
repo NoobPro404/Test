@@ -15,6 +15,13 @@
     "category": "streaming"
   },
   {
+    "id": "sflix",
+    "title": "sflix",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOBAMAAADpk+DfAAAAGFBMVEVPUU5hW0ZtYkGLczSkginElRnZoxL+uQNIeozOAAAARElEQVQI12MoBwOGAhUIxQihGKBUkRuYKmYQSQcJMjCwg6hiEMVUZgCi1AwYGMMZigwYGNzLgeoYzIAaygNFQdohRgMAOIQZ19+LH9IAAAAASUVORK5CYII=",
+    "url": "https://sflix.to/search/{{IMDB_TITLE}}",
+    "category": "streaming"
+  },
+  {
     "id": "soap2day",
     "title": "Soap2day",
     "url": "https://soap2day.ac/search/keyword/{{IMDB_TITLE}}",
