@@ -341,7 +341,7 @@
   {
     "id": "ericdrive",
     "title": "ericDrive",
-    "url": "https://drive.google.com/drive/u/4/search?q=type:video%20{{IMDB_TITLE}}%20{{IMDB_YEAR}}",
+    "url": "https://drive.google.com/drive/u/4/search?q=type:video+{{IMDB_TITLE}}+{{IMDB_YEAR}}",
     "noAccessMatcher": "Result for search (0)",
     "category": "filehoster"
   },
