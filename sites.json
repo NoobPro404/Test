@@ -339,10 +339,17 @@
     "category": "movie_site"
   },
   {
+    "id": "ericdrive",
+    "title": "ericDrive",
+    "url": "https://drive.google.com/drive/u/4/search?q={{IMDB_TITLE}}{{IMDB_YEAR}}",
+    "noAccessMatcher": "Result for search (0)",
+    "category": "filehoster"
+  },
+  {
     "id": "mdz",
     "title": "mdzbd",
     "url": "https://mdzbd.buzz/0:search?q={{IMDB_TITLE}}",
-    "noAccessMatcher": "No Search Found",
+    "noAccessMatcher": "No matching results",
     "category": "movie_site"
   }
 ]
