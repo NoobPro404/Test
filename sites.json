@@ -346,6 +346,19 @@
     "category": "filehoster"
   },
   {
+    "id": "skymovieshd",
+    "title": "SkyMoviesHD",
+    "url": "https://skymovieshd.news/search.php?search={{IMDB_TITLE}}+{{IMDB_YEAR}}&cat=All",
+    "category": "filehoster"
+  },
+  {
+    "id": "test",
+    "title": "test",
+    "url": "https://drive.google.com/drive/u/4/search?q=type:video+{{IMDB_TITLE}}+{{IMDB_YEAR}}",
+    "noAccessMatcher": "Result for search (0)",
+    "category": "filehoster"
+  },
+  {
     "id": "mdz",
     "title": "mdzbd",
     "url": "https://mdzbd.buzz/0:search?q={{IMDB_TITLE}}",
