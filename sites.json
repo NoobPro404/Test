@@ -341,6 +341,7 @@
   {
     "id": "ericdrive",
     "title": "ericDrive",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAYCAMAAABUbfTxAAABj1BMVEUAAAAAgvv/0kAAgvsAqVsAqFv/1D0AgvoAdOf+0D4AqVz90kAAqF8AqVsAqVv/00AAdOMAqVv/0z78zT0AqVsAqloAqVv/0kD/0kAAqVsAqVsAqlkAqVsAqlsAqVz/zygAsUj/0kBJl8wAlY/BtF/yvTS+sF7/0kAAqVsAdeAAqVsAklAAfPD/0kAAmFMAqVv/0kAApGkAgvv/0kAAgvwAqVv/0kAAgvv1vS//0kD/0kAAklAAqVu9um2ItUgAgvPFxkUWiOoAoVcAqVv/0kCHo4sAk5MAqVv/0kDxuzMAgvsAlKMAgvsAqVv/0kD/0kAAgvsAqVsAqVsAklAAfv//0kAAgvsprFUAgf//0kB/skkAgvsAgvz/0kAAqVsMhfG/sF0Af/cAd+cAqlkAplkAoFcBlVEAklD/0T78zDv1vTAAffIAdOQAdOL5xjf2wTQAedUAhswAfcoAhrMAjaEAmIYAnncAo2vEuWIOoVQAmlQWmU9ns00rnU1FpEx4sUmZuUa5wETIxEPgykLxzkFfBeTHAAAAXHRSTlMAnp/y2I88NzUjBf79/fv08u3r0r+2oZOMaUwwIx0RDwwIBf7+/Pr59PPz8/Lt6eXk4+HY1s++vLqxq6qpp6Ohl4uJgH58em1ramllY19dS0lAPTgzMC0mIRoSEF1M+6wAAAE6SURBVDjLhdJVWwJBFIDhJdwQJEVARRC7u7u7W5cxltC1u9sf7sa5gNmd5bs7z/NeTBwKb2vYrObnqGzlvNliav5sdMX9/A22gTamER9KfPwB7ik1tAsOFE9+ga1aNKKhDiTZ91/A3h0DO4akXlKfMWicTIuaZJtIvf6Abd4g0dwCpNq6QSdgM+l6hdWKjSf7dnvBOpf0aUk+Umtco2gP4M6wrp3KAzsqDQGwtmk9WmwFag1JE+c9OVZwG6e3CEAdQWWcqbi8UHhAS1fdYH0RZQ53i6Iocw+tea9+oPZJlmUZhlmfqDyQK38aiBKOIJTVuFz1Frl9aIR0tceb87NTPr32bUpTUHmyO5zys4SvEB6ujg4zadee7hfXIvstTi3LhNUR7nHKm6KElWy55rFaNylCc0MmrHkqrX+MCo5JrhlaLgAAAABJRU5ErkJggg=="
     "url": "https://drive.google.com/drive/u/4/search?q=type:video+{{IMDB_TITLE}}+{{IMDB_YEAR}}",
     "noAccessMatcher": "Result for search (0)",
     "category": "filehoster"
